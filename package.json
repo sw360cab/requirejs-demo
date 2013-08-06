@@ -1,0 +1,14 @@
+{
+  "name": "requirejs-demo",
+  "title": "RequireJS Demo",
+  "description": "A wide sample of Usage of RequireJS created after a quick read given to Instant Dependency Management with RequireJS How-to.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/gfranko/Backbone-Require-Boilerplate",
+  "author": {
+    "name": "Sergio Maria Matone",
+    "email": "sw360cab@gmail.com",
+  },
+  "devDependencies": {
+    "express": "3.x",
+  }
+}
