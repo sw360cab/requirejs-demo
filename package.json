@@ -10,5 +10,6 @@
   },
   "devDependencies": {
     "express": "3.x",
+    "requirejs": "2.x",
   }
 }
