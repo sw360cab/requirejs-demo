@@ -10,7 +10,7 @@ The sample covers:
 * RequireJS Basic configuration (client/js/app/config/main.js)
 * RequireJS Basic usage (client/simpleIndex.html)
 * AMD compliant module definition (client/js/app/sample.js)
-* Platform an environment dependent file configuration (client/index.html)
+* Platform and environment dependent file configuration (client/index.html)
 * Jasmine unit test RequireJS-based (client/test.html)
 * RequireJS optimization via r.js (client/js/app/config/build.js and client/js/app/config/build-single.js)
 
